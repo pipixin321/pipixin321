@@ -4,7 +4,7 @@ I am a Master of HUST (Huazhong University of Science and Technology), supervise
 🔭 **Reseach-wise, I mainly focus on**:
 
 - Video Understanding
-- More specifically, Weakly Supervised Temoral Action Localization (WSTAL), Video Anomaly Detection (VAD).
+- More specifically, Weakly Supervised Temporal Action Localization (WSTAL), Video Anomaly Detection (VAD).
 
 😄 **I am open to**:
 
@@ -15,7 +15,7 @@ I am a Master of HUST (Huazhong University of Science and Technology), supervise
 - Email: zhanghuaxin@hust.edu.cn
 
 💬 **News**:
-- 2023-05-04: One paper about Point Supervised Temoral Action Localizationis submitted on ACM MM 2023.
+- 2023-05-04: One paper about Point Supervised Temporal Action Localization submitted on ACM MM 2023.
 
 ----
 
