@@ -15,7 +15,9 @@ I am a Master of HUST (Huazhong University of Science and Technology), supervise
 - Email: zhanghuaxin@hust.edu.cn
 
 💬 **News**:
-- 2023-05-04: One paper about Point Supervised Temporal Action Localization submitted on ACM MM 2023.
+- 2023-05-04: One paper about Point Supervised Temporal Action Localization is submitted to ACM MM 2023.
+
+- 2023-08-15: One paper about Point Supervised Temporal Action Localization is submitted to AAAI 2024.
 
 ----
 
