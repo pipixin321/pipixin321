@@ -4,7 +4,7 @@ I am a Master of HUST (Huazhong University of Science and Technology), supervise
 🔭 **Reseach-wise, I mainly focus on**:
 
 - Video Understanding
-- More specifically, Weakly Supervised Temporal Action Localization (WSTAL), Video Anomaly Detection (VAD).
+- More specifically, Weakly-supervised Temporal Action Localization (WSTAL), Weakly-suervised Video Anomaly Detection (WSVAD).
 
 😄 **I am open to**:
 
