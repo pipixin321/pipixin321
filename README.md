@@ -15,7 +15,7 @@ I am a Master of HUST (Huazhong University of Science and Technology), supervise
 - Email: zhanghuaxin@hust.edu.cn
 
 💬 **News**:
-  
+  - One paper about point supervised temporal action localization is accepted on AAAI 2024.
 
 
 
