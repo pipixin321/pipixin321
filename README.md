@@ -23,4 +23,4 @@ I am a Master of HUST (Huazhong University of Science and Technology), supervise
 ----
 
 [![Huaxin's github stats](https://github-readme-stats.vercel.app/api?username=pipixin321&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pipixin321&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
