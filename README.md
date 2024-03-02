@@ -4,7 +4,7 @@ I am a Master of HUST (Huazhong University of Science and Technology), supervise
 🔭 **Reseach-wise, I mainly focus on**:
 
 - Video Understanding, more specifically, Weakly-supervised Temporal Action Localization (WSTAL) & Weakly-suervised Video Anomaly Detection (WSVAD).
-- Large Multimodal Foundation Models
+- Multi-modal Large Language Models
 
 😄 **I am open to**:
 
@@ -15,6 +15,7 @@ I am a Master of HUST (Huazhong University of Science and Technology), supervise
 - Email: zhanghuaxin@hust.edu.cn
 
 💬 **News**:
+  - 2024-01-29：I start my internship in Baidu VIS, to do some research on Multi-modal Large Language Model (MLLM).
   - 2023-12-09: One paper about point supervised temporal action localization is accepted on AAAI 2024.
 
 
