@@ -15,7 +15,8 @@ I am a Master of HUST (Huazhong University of Science and Technology), supervise
 - Email: zhanghuaxin@hust.edu.cn
 
 💬 **News**:
-  - 2024-06-10: We release our code and model of "Arcana: Improving Multi-modal Large Language Model through Boosting Vision Capabilities".
+  - 2024-07-01: We release our code and model of "Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM".[[project page](https://holmesvad.github.io/)]
+  - 2024-06-10: We release our code and model of "Arcana: Improving Multi-modal Large Language Model through Boosting Vision Capabilities".[[project page](https://arcana-project-page.github.io/)]
   - 2024-01-29: I start my internship in Baidu VIS, to do some research on Multi-modal Large Language Model (MLLM).
   - 2023-12-09: One paper about point supervised temporal action localization is accepted on AAAI 2024.
 
