@@ -8,7 +8,7 @@ I am a Master of HUST (Huazhong University of Science and Technology), supervise
 
 😄 **I am open to**:
 
-- A internship/job offer with computer vision/multimodal LLM research and engineering.
+- A internship/job/PhD offer with computer vision/multimodal LLM research and engineering.
 
 📫 **Contact me by**:
 
