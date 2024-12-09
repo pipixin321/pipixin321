@@ -1,5 +1,5 @@
 #### Hi there 👋, I'm Huaxin Zhang
-I am a Master of HUST (Huazhong University of Science and Technology), supervised by Nong Sang.
+I am a Master of HUST (Huazhong University of Science and Technology), supervised by Prof. Changxin Gao and Prof. Nong Sang.
 
 🔭 **Reseach-wise, I mainly focus on**:
 - Multi-modal Large Language Models
