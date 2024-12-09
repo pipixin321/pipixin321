@@ -1,4 +1,12 @@
-#### Hi there 👋, I'm Huaxin Zhang
+<h2><em> Hi there 👋, I'm Huaxin Zhang</em></h2>
+
+<p> 
+<a href="https://pipixin321.github.io/"><img src="https://img.shields.io/badge/Huaxin_Zhang-Homepage-orange" height="25px" alt="Huaxin Zhang"></a>
+<a href="https://github.com/pipixin321"><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="25px" alt="github"></a>
+<a href="https://scholar.google.com.hk/citations?user=oyfu0pgAAAAJ&hl=zh-CN"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" height="25px" alt="Google Scholar"></a>
+</p>
+
+
 I am a Master of HUST (Huazhong University of Science and Technology), supervised by Prof. Changxin Gao and Prof. Nong Sang.
 
 🔭 **Reseach-wise, I mainly focus on**:
