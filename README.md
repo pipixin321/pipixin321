@@ -23,6 +23,7 @@ I am a Master of HUST (Huazhong University of Science and Technology), supervise
 - Email: zhanghuaxin@hust.edu.cn
 
 💬 **News**:
+  - 2025-02-27: Holmes-VAU is accepted on CVPR 2025.
   - 2024-07-01: We release our code and model of "Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM".[[project page](https://holmesvad.github.io/)]
   - 2024-06-10: We release our code and model of "Arcana: Improving Multi-modal Large Language Model through Boosting Vision Capabilities".[[project page](https://arcana-project-page.github.io/)]
   - 2024-01-29: I start my internship in Baidu VIS, to do some research on Multi-modal Large Language Model (MLLM).
